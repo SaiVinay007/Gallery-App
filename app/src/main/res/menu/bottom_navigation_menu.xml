@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_videos"
+        android:enabled="true"
+        android:icon="@drawable/videos"
+        android:title="Videos"/>
+    <item
+        android:id="@+id/nav_music"
+        android:enabled="true"
+        android:icon="@drawable/music"
+        android:title="Music"/>
+
+    <item
+        android:id="@+id/nav_pictures"
+        android:enabled="true"
+        android:icon="@drawable/image"
+        android:title="Pictures"/>
+
+    <item
+        android:id="@+id/nav_downloads"
+        android:enabled="true"
+        android:icon="@mipmap/download_icon_foreground"
+        android:title="Downloads"/>
+</menu>
